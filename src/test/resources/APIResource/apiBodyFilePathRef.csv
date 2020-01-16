@@ -1,0 +1,12 @@
+Feature,bodyFilepath
+Accounts,
+Payments,/src/test/resources/APIResource/payload/JSON/directPayment.json
+Get current users in the system,
+Create user as admin,/src/test/resources/APIResource/payload/JSON/creatUser.json
+Delete user as admin,
+Update a user created,/src/test/resources/APIResource/payload/JSON/updateDetails.json
+Add a pet and its details,/src/test/resources/APIResource/payload/JSON/addPet.json
+Find a pet by its ID,
+Update the pet details,/src/test/resources/APIResource/payload/JSON/updatePetDetails.json
+Delete a pet by ID,
+Find availability status of pets,

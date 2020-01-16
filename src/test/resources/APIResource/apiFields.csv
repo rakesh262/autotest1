@@ -1,0 +1,12 @@
+Feature,field1,field2,field3,field4,field5,field6,field7,field8,field9,field10,status,ID
+Accounts,,,,,,,,,,,,
+Payments,,,,,,,,,,,,
+Get current users in the system,,,,,,,,,,,,1
+Create user as admin,,,,,,,,,,,,
+Delete user as admin,,,,,,,,,,,,
+Update a user created,,,,,,,,,,,,
+Add a pet and its details,,,,,,,,,,,,
+Find a pet by its ID,,,,,,,,,,,,
+Update the pet details,,,,,,,,,,,,
+Delete a pet by ID,,,,,,,,,,,,
+Find availability status of pets,,,,,,,,,,,sold

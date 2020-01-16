@@ -1,0 +1,5 @@
+<User xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/FakeRestAPI.Web.Models">
+    <ID>100</ID>
+    <Password>testdemo</Password>
+    <UserName>fordemo</UserName>
+</User>

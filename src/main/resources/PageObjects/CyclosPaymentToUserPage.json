@@ -1,0 +1,23 @@
+{
+  "ios":[
+    {
+
+    }
+  ],
+  "android":[
+    {
+      "Nicola Tesla":"xpath;(//*[@content-desc='Nicola Tesla'])[2]",
+      "Amount in Units":"xpath;//*[@content-desc='Amount in Units']",
+      "MAKE PAYMENT":"xpath;//*[@content-desc='MAKE PAYMENT']",
+      "CONFIRM":"xpath;//*[@content-desc='CONFIRM']"
+    }
+  ],
+
+  "Web":[
+    {
+      "PaymentToUser_User":"Xpath;//input[@type='text'][@class='inputField large']",
+      "PaymentToUser_Amount":"Xpath;//input[@class='inputField large rightAligned']",
+      "PaymentToUser_Submit":"Xpath;//*[@class='actionButtonText']"
+    }
+  ]
+}

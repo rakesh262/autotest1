@@ -1,0 +1,24 @@
+{
+  "ios":[
+    {
+
+    }
+  ],
+  "android":[
+    {
+      "new_transfer":"xpath;(//android.widget.TextView[@resource-id='at.beeone.george.qa:id/shortcut_text'])[1]",
+      "profile":"xpath;//android.widget.FrameLayout[@content-desc='Profile']/android.widget.ImageView",
+      "giro_account":"xpath;//android.widget.FrameLayout[contains(@content-desc,'Giro account')]//android.widget.TextView[@resource-id='at.beeone.george.qa:id/account_name']",
+      "function_tab":"xpath;//androidx.appcompat.app.ActionBar.a[@content-desc='Functions']"
+
+    }
+  ],
+
+  "Web":[
+    {
+      "HomeBanking":"Xpath;//span[text()='Banking']",
+      "Bank":"Xpath;//span[text()='Bank']"
+       
+    }
+  ]
+}

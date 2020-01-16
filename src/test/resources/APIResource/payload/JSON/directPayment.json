@@ -1,0 +1,26 @@
+{
+  "amount": "1.00",
+  "description": "test",
+  "currency": "",
+  "type": "memberaccount.memberpayment",
+  "customValues": {},
+  "subject": "Demo",
+  "fromName": "Demo user",
+  "toName": "demo10",
+  "scheduling": "direct",
+  "installmentsCount": 0,
+  "firstInstallmentDate": "2019-03-27T08:48:09.366Z",
+  "installments": [
+    {
+      "dueDate": "2019-03-27T08:48:09.366Z",
+      "amount": "1"
+    }
+  ],
+  "occurrencesCount": 0,
+  "firstOccurrenceDate": "2019-03-27T08:48:09.366Z",
+  "occurrenceInterval": {
+    "amount": 1,
+    "field": "days"
+  },
+  "nfcChallence": ""
+}

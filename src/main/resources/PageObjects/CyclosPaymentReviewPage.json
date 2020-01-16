@@ -1,0 +1,22 @@
+{
+  "ios":[
+    {
+
+    }
+  ],
+  "android":[
+    {
+      "The payment was successful":"xpath;//*[@content-desc='The payment was successful']",
+      "Mobilelogout":"xpath;//*[@content-desc='>']",
+      "YES":"xpath;//*[@content-desc='YES']"
+    }
+  ],
+
+  "Web":[
+    {
+      "PaymentToUser_Confirm":"Xpath;//div[text()='Confirm']",
+  	  "Logout":"Xpath;//span[.='Logout']"
+  
+    }
+  ]
+}

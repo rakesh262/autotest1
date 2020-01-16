@@ -1,0 +1,12 @@
+Feature,Accept,Content-type
+Accounts,,
+Payments,,
+Get current users in the system,,
+Create user as admin,application/json,application/json
+Delete user as admin,,
+Update a user created,application/json,application/json
+Add a pet and its details,application/json,application/json
+Find a pet by its ID,application/json,application/json
+Update the pet details,application/json,application/json
+Delete a pet by ID,,
+Find availability status of pets,application/json,application/json

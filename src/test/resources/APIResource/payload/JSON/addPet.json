@@ -1,0 +1,18 @@
+{
+  "id": 10,
+  "category": {
+    "id": 10,
+    "name": "senda"
+  },
+  "name": "doggie",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "senda"
+    }
+  ],
+  "status": "available"
+}
